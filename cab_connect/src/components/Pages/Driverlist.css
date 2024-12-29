@@ -1,0 +1,199 @@
+#headercard .ant-card-head ,#tripdrivercard .ant-card-head{
+    border-bottom: none !important;
+}
+
+#infoscard .ant-card-extra,#tripdrivercard .ant-card-extra{
+    margin-inline-start: unset !important; 
+}
+
+.tripbutton{
+    text-align: end;
+    margin-top: 5px;
+}
+
+.notrip{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 15px !important;
+}
+
+.text-up{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.statusbadge .ant-badge-count{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.ant-picker .ant-picker-input{
+    flex-direction: row-reverse;
+}
+
+.ant-picker-suffix{
+    margin-inline-start:unset !important;
+    margin-inline-end: 4px;
+}
+
+.ml-2{
+    margin-left: 2rem !important;
+}
+
+.mt-15rem{
+    margin-top: .15rem !important;
+}
+
+.ant-card-head{
+    padding: 0 12px !important;
+}
+.tripstart,.tripend{
+    padding: 12px !important;
+}
+
+.ant-card-body{
+    padding: 24px 12px !important;
+}
+
+.css-14ln1j6-MuiListItemText-root{
+    flex: none !important;
+    margin: 0 0 0 4px !important;
+}
+
+.css-18k2bs-MuiAvatar-root{
+    width: 45px !important;
+    height: 45px !important;
+}
+
+.ant-picker-dropdown{
+    overflow: auto !important;
+}
+
+.css-12eb3rq-MuiStepLabel-label{
+    margin: 0 !important;
+}
+
+.ant-collapse-expand-icon{
+    height: 60px !important;
+}
+
+.css-cfd5wn-MuiListItem-root{
+    padding: 0 !important;
+}
+
+.css-1eqxcs7-MuiStep-root{
+    padding: 0 !important;
+}
+
+.ant-picker-datetime-panel{
+    flex-direction: column;
+}
+.ant-picker-ok .ant-btn{
+    height: 36px !important;
+    width: 50px;
+}
+
+.ant-picker-suffix , .custom-calicon{
+    display: block !important;
+}
+
+.statusbadge{
+    width: 100% !important;
+}
+
+.dts-none{
+    visibility: hidden;
+}
+
+
+.css-1ulznza-MuiListItemAvatar-root{
+    min-width: 46px !important;
+}
+
+.ant-ribbon{
+    padding: 0 12px !important;
+}
+
+.hide{
+    display: none !important;
+}
+
+#tripstartform_tripstartdate,#tripstartform_tripstarttime,#tripendform_tripenddate,#tripendform_tripendtime{
+    color: #000 !important;
+}
+
+.MuiListItem-root{
+    padding: 0 !important;
+}
+
+.MuiStepLabel-alternativeLabel{
+    margin-top:0 !important;
+}
+
+.badgest{
+    padding: 0 5px !important;
+    line-height: 18px !important;
+    height: 17px !important;
+}
+
+.d-ruby{
+    display: ruby !important;
+}
+
+.color-blue,.bg-blue, .ant-picker-month-btn, .ant-picker-year-btn{
+    color: #1677ff !important;
+}
+
+.color-red,.bg-red{
+    color: #da4453 !important;
+}
+
+.bg-green{
+    color: #8cc152 !important;
+}
+
+.bg-light-blue{
+    background-color:#8db1e2 !important;
+}
+
+.bg-light-red{
+    background-color: #e7a4aa !important;
+}
+
+.bg-light-green{
+    background-color: #E8F5E9 !important;
+}
+
+.card-light-blue{
+    background-color: #e3f2fd !important;
+}
+
+.card-light-red{
+    background-color: #FFEBEE !important;
+}
+
+.card-light-green{
+    background-color: #b4e9a8 !important;
+}
+
+.MuiListItem-root{
+    display: block !important;
+}
+
+.m-8px{
+    margin-top: 8px !important;
+}
+
+.m-7px{
+    margin-top: 7px !important;
+}
+
+.m-10px{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.ant-collapse-header{
+    padding: 20px 0px 0px 10px !important;
+}

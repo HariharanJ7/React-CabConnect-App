@@ -1,0 +1,100 @@
+#headercard .ant-card-head ,#tripdrivercard .ant-card-head{
+    border-bottom: none !important;
+}
+
+#infoscard .ant-card-extra,#tripdrivercard .ant-card-extra{
+    margin-inline-start: unset !important; 
+}
+
+.css-14ln1j6-MuiListItemText-root{
+    flex: none !important;
+    margin: 0 0 0 4px !important;
+}
+
+.css-18k2bs-MuiAvatar-root{
+    width: 45px !important;
+    height: 45px !important;
+}
+
+.css-12eb3rq-MuiStepLabel-label{
+    margin: 0 !important;
+}
+
+.ant-collapse-expand-icon{
+    height: 60px !important;
+}
+
+.css-cfd5wn-MuiListItem-root{
+    padding: 0 !important;
+}
+
+.css-1eqxcs7-MuiStep-root{
+    padding: 0 !important;
+}
+
+
+.css-1ulznza-MuiListItemAvatar-root{
+    min-width: 46px !important;
+}
+
+.ant-ribbon{
+    padding: 0 12px !important;
+}
+
+.bg-blue{
+    color:#1677ff !important;
+}
+
+.bg-red{
+    color: #da4453 !important;
+}
+
+.bg-green{
+    color: #8cc152 !important;
+}
+
+.bg-light-blue{
+    background-color:#8db1e2 !important;
+}
+
+.bg-light-red{
+    background-color: #e7a4aa !important;
+}
+
+.bg-light-green{
+    background-color: #E8F5E9 !important;
+}
+
+.card-light-blue{
+    background-color: #e3f2fd !important;
+}
+
+.card-light-red{
+    background-color: #FFEBEE !important;
+}
+
+.card-light-green{
+    background-color: #b4e9a8 !important;
+}
+
+.MuiListItem-root{
+    display: block !important;
+}
+
+.m-8px{
+    margin-top: 8px !important;
+}
+
+.m-7px{
+    margin-top: 7px !important;
+}
+
+.m-10px{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.ant-collapse-header{
+    padding: 20px 0px 0px 10px !important;
+}
+
